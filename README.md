@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Matheus 👋
 
-Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando Inteligência Artificial** em projetos práticos, criando soluções robustas para web.
+Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando IA** em projetos práticos, criando soluções robustas para web.
 
 ---
 
@@ -22,12 +22,6 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🤖 Inteligência Artificial
-![IA GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
-Atualmente aplicando **machine learning, automação e scripts inteligentes** em projetos práticos.
 
 ---
 

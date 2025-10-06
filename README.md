@@ -27,10 +27,7 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 
 ## 💻 GitHub Stats
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=yTheu&show_icons=true&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
+<br>
 ![Matheus's GitHub trophies](https://github-profile-trophy.vercel.app/?username=yTheu&theme=radical&margin-w=10&margin-h=10)
 
 ---

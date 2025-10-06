@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Matheus 👋
 
-Sou **desenvolvedor em formação**, apaixonado por **Python, Django e automação**. Atualmente, estou **trabalhando em projetos próprios de web e automação**, enquanto continuo estudando e aprimorando minhas habilidades em programação e IA.
+Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando IA** em projetos práticos, aprimorando minhas habilidades em programação e soluções robustas para web.
 
 ---
 

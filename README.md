@@ -7,17 +7,33 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 ---
 
 ## 🌐 Linguagens
-**Python • C • JavaScript • HTML • CSS**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## ⚙️ Ferramentas
-**Django • React (básico) • Git & GitHub • VS Code • Postman**
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🤖 Inteligência Artificial
+![IA GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+Atualmente aplicando **machine learning, automação e scripts inteligentes** em projetos práticos.
 
 ---
 
 ## 💻 GitHub Stats
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
 
 ---
 
@@ -41,6 +57,6 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 ---
 
 ### 🔥 Um pouco sobre mim
-- Gosto de **resolver problemas complexos** e aprender constantemente.
-- Acredito em **automação e otimização** como ferramentas para criar soluções eficientes.
+- Gosto de **resolver problemas complexos** e aprender constantemente.  
+- Acredito em **automação e otimização** como ferramentas para criar soluções eficientes.  
 - Fora do teclado, você me encontra **andando de bicicleta ou explorando novas ideias em IA**.

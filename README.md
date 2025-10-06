@@ -26,8 +26,8 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 ---
 
 ## 💻 GitHub Stats
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=yTheu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yTheu&layout=compact&theme=radical)
 
 ---
 

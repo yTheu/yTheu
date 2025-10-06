@@ -6,17 +6,17 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 
 ---
 
-## 🦄 Linguagens
+## 🌐 Linguagens
 **Python • C • JavaScript • HTML • CSS**
 
 ---
 
-## 💼 Ferramentas
+## ⚙️ Ferramentas
 **Django • React • Git & GitHub • VS Code • Postman • MySQL**
 
 ---
 
-## 💌 Vamos nos conectar?
+## 📬 Vamos nos conectar?
 <a href="mailto:SEU-GMAIL" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -32,10 +32,3 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 <a href="SEU-INSTAGRAM" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
----
-
-### 🔥 Um pouco sobre mim
-- Gosto de **resolver problemas complexos** e aprender coisas novas todos os dias.
-- Acredito em **automação e otimização** como ferramentas para ganhar tempo e foco no que importa.
-- Quando não estou programando, você me encontra **andando de bicicleta ou lendo sobre IA**.

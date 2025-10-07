@@ -37,9 +37,3 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 <a href="instagram.com/_matheusc0" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
-**🔥 Um pouco sobre mim**  
-
-- Gosto de **resolver problemas complexos** e aprender constantemente.  
-- Acredito em **automação e otimização** como ferramentas para criar soluções eficientes.  
-- Fora do teclado, você me encontra **andando de bicicleta ou explorando novas ideias em IA**.

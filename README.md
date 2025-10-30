@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Matheus 👋
 
-Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando IA** em projetos práticos, criando soluções robustas para web.
+Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando IA** em projetos práticos e brincando com aplicações web.
 
 **🌐 Linguagens**  
 

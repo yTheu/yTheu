@@ -33,6 +33,3 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 <a href="SEU-LINKEDIN" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="instagram.com/_matheusc0" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>

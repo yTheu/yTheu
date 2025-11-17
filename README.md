@@ -8,7 +8,12 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&color=512BD4&labelColor=2C0E5E)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&cacheSeconds=0)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&v=2)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&v=2)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 

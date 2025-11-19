@@ -19,12 +19,6 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**💻 GitHub Stats**  
-
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=yTheu&show_icons=true&theme=radical)
-<br></br> 
-![Matheus's GitHub trophies](https://github-profile-trophy.vercel.app/?username=yTheu&theme=radical&margin-w=10&margin-h=10)
-
 **📬 Contato**  
 <a href="mailto:matheuscs0v7@gmai.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>

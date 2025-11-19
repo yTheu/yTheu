@@ -20,9 +20,11 @@ Sou **desenvolvedor back-end em formação**, atualmente **estudando e aplicando
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **📬 Contato**  
+
 <a href="mailto:matheuscs0v7@gmai.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
 <a href="" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
 </a>

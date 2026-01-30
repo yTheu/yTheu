@@ -2,7 +2,9 @@
 
 # Olá, mundo!👋
 
-Eu sou o Matheus, estudante de Ciência da Computação, apaixonado por tecnologia e por descobrir como as coisas funcionam. Meu foco de aprendizagem hoje é automação com IA, enquanto me divirto construindo aplicações web.
+<p align="justify">
+  Eu sou o Matheus, estudante de Ciência da Computação, apaixonado por tecnologia e por descobrir como as coisas funcionam. Meu foco de aprendizagem hoje é automação com IA, enquanto me divirto construindo aplicações web.
+</p>
 
 <hr>
 
